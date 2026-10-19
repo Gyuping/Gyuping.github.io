@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##  반갑 습니다.
 <!--
 **Gyuping/Gyuping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
